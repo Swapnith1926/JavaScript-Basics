@@ -1,0 +1,1 @@
+Solved basics in Lex Platform
